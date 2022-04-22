@@ -1,0 +1,109 @@
+.Title{
+	font-style: italic;
+	font-family: sans-serif;
+	text-align: center;
+	color: white;
+	background-color: black;
+	border-bottom: 1px solid;
+	border-bottom-style: inset;
+	border-bottom-width: 6px;
+	margin-top: -10px;
+	margin-right: -10px;
+	margin-left: -10px;
+}
+
+.END{
+	font-style: italic;
+	font-family: sans-serif;
+	text-align: center;
+	font-size: 15px;
+	color: white;
+}
+
+.P1{
+	font-size: 30px;
+	font-family: sans-serif;
+	color: white;
+	background-color: #191c45;
+	border: 1px solid;
+	border-style: outset;
+	border-width: 10px;
+	border-color: #414478;
+	width: 900px;
+	padding: 25px;
+	margin: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+    text-shadow: 5px 5px 5px black;
+    position: relative;
+}
+
+.P2{
+	font-size: 30px;
+	font-family: sans-serif;
+	color: white;
+	background-color: #191c45;
+	border: 1px solid;
+	border-style: outset;
+	border-width: 10px;
+	border-color: #414478;
+	width: 900px;
+	padding: 25px;
+	margin: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+    text-shadow: 5px 5px 5px black;
+}
+
+.BG1{
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: -10px;
+	margin-top: -27.5px;
+	background-color: #313466;
+	width: 1100px;
+	height: 2200px;
+ 	border: 1px solid;
+	border-style: outset;
+	border-width: 6px;
+	border-color: ghostwhite;
+}
+
+.SIDEB{
+	background-color: #191c45;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	top: -1400px;
+	left: -400px;
+	width: 200px;
+	height: 800px;
+ 	border: 1px solid;
+	border-style: outset;
+	border-width: 6px;
+	border-color: ghostwhite;
+}
+
+.Image1{
+    margin: 15px;
+    margin-left: 275px;
+ 	border: 1px solid;
+	border-style: inset;
+	border-width: 10px;
+	border-color: ghostwhite;
+}
+
+.Image2{
+    margin: 5px;
+    margin-left: -24px;
+ 	border: 1px solid;
+	border-style: inset;
+	border-width: 5px;
+	border-color: ghostwhite;
+}
+
+html{
+    background-color: #2d4a73;
+}
